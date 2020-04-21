@@ -58,3 +58,9 @@ tfoot td {
 .bold_shit td {
   font-weight: bold;
 }
+
+#videoBG {
+  position: fixed;
+  z-index: -1;
+}
+
