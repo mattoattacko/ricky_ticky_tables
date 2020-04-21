@@ -52,3 +52,9 @@ tfoot td {
   font-style: italic;
   color: #8a97a0;
 }
+
+/* Matto Custom Styling */
+
+.bold_shit td {
+  font-weight: bold;
+}
