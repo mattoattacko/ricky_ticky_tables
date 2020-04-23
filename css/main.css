@@ -53,8 +53,8 @@ tfoot td {
   color: #8a97a0;
 }
 
-html {
-  background-image: url(/img/dtown.jpg);
+body {
+  background-image: url('https://github.com/mattoattacko/ricky_ticky_tables/blob/master/img/dtown.jpg');
 }
 
 /* Matto Custom Styling */
